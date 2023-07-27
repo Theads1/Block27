@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+#{
+  background-color: burlywood;
+  
+}
 
 .logo {
   height: 6em;
